@@ -11,6 +11,7 @@ const Customer = () => {
         <div>
             <div className="row">
                 <table className="table text-start">
+                    {/* head */}
                     <thead>
                         <tr>
                         <th scope="col">Payment Id</th>

@@ -1,0 +1,57 @@
+.home-background{
+    background-color: #E5E5E5;
+}
+.heading-title{
+    font-size: 18px;
+    font-weight: 600;
+}
+.btn-color{
+    background-color: #2B83EA;
+    color: white;
+}
+.btn-color:hover{
+    color: white;
+}
+.heading-paragraph{
+    font-size: 14px;
+    color: #4C5565 !important;
+}
+.item-baground{
+    background-color: white;
+}
+.calendar-bg{
+    border: 1px solid black;
+    width: 220px;
+    background-color: #F2F2F2;
+    display: flex;
+    align-items: center;
+    border-radius: 21px;
+}
+.calendar-bg > input{
+    padding-top: 10px;
+    padding-bottom: 9px;
+    background-color: #F2F2F2;
+    flex: 1;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 21px;
+}
+
+.calendar-bg > i {
+    font-size: 20px;
+    padding-left: 8px; 
+}
+
+.form-control:focus{
+    box-shadow: none;
+    background-color: #F2F2F2;
+}
+.cal-icon:focus{
+    outline: none;
+}
+
+
+.RFS-StepperContainer{
+    padding: 6px !important;
+}
